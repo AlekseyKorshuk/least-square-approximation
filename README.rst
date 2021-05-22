@@ -4,7 +4,7 @@ Least Square Approximation
 
 A computer program in C++ programming language to compose a least square approximation.
 
-Plot the graph of a point cloud and regression polynomial.
+Plot the graph of a point cloud and regression polynomial using Gnuplot.
 
 Dataset is random.
 
